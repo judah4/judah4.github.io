@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World"
 date:   2018-09-21 16:42:08 -0700
-categories: jekyll update
+categories: intro update
 ---
 Hello! I'm Judah and I'm trying out something new for my blog.
 
