@@ -8,7 +8,7 @@ categories: programming tutorials
 Hello! I've been doing game development for while now and people have asked how to start. 
 There are many ways to get into game development so here is my advice to learn to program video games.
 
-First off, if you are brand new to programming, I highly suggest [Chris DeLeon's](https://twitter.com/ChrisDeLeon) free code your first game udemy course found at [code-your-first-game.com](http://code-your-first-game.com).
+First off, if you are brand new to programming, I highly suggest [Chris DeLeon's](https://twitter.com/ChrisDeLeon) free Udemy course found at [code-your-first-game.com](http://code-your-first-game.com).
 It is well structured and will walk you though making a breakout game with javascript that can be played in your browser right away.
 
 I personally use Unity3d for making games. There are many engines out there and a lot of them are good but I prefer using unity.
@@ -33,8 +33,8 @@ There are also the [2D Game Kit](https://unity3d.com/learn/tutorials/s/2d-game-k
 
 ### Video Tutorials
 
-Brakeys has a great [learning unity tutorial](https://youtu.be/IlKaB1etrik) and other goodies on his channel found [here](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA).
-Once you have the basics, he has an [rpg tutorial](https://youtu.be/nu5nyrB9U_o) ran in parallel with [Sebastian Lague](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ) making [3d assets](https://youtu.be/NGn_gSfYwVw).
+Brackeys has a great [learning unity tutorial](https://youtu.be/IlKaB1etrik) and other goodies on his channel found [here](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA).
+Once you have the basics, he has an [rpg tutorial](https://youtu.be/nu5nyrB9U_o) in parallel with [Sebastian Lague](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ) making [3d assets](https://youtu.be/NGn_gSfYwVw).
 
 ### More Resources
 
@@ -49,21 +49,21 @@ It does take time though. Practice and get good.
 
 Now tutorials are great to start but I'm sure you want to make your own games. 
 Make a [game design document](https://vitalzigns.itch.io/gdd) to plan everything for your game and use tools like [Trello](https://trello.com/) or [HacknPlan](https://hacknplan.com/) for task management.
-Your games should start small but you will want to make it larger and work with other people. Planning and writing it down lets you share your idea with others before you write a lot of spaghetti.
+Your games should start small but you will want to make it larger and work with other people. Writing it down lets you share your idea with others and plan before you write a lot of spaghetti code.
 
 #### Scope
 Once you get to designing your own games, start small. Game development is easy to get into right now so it's easy to think of the grand dream game but it is still very hard to complete something. Start small, and build your way up to larger and larger games.
 
 Don't be like me and try to make an MMORPG solo. It takes a long time and you probably won't finish. But instead, make a small game in a week, then in a month, then in a few months and so on.
-Completing and shipping games is an important skill that many developers don't do unfortunately. Finishing and publishing a game is a huge sign that you have what it takes to make games.
-But never forget that dream game. Keep it in the back of your mind so that when you are ready you can attempt it. Let it drive you.
+Completing and shipping games is an important skill that many developers unfortunately don't learn quickly. 
+Finishing and publishing a game is a huge sign that you have what it takes to make games.
+However, never forget that dream game. Keep it in the back of your mind, so that when you are ready you can attempt it. Let it drive you.
 
 #### Publishing
 Finally, once you have something working, post it online! Sites like [Itch.io](https://itch.io) and [Gamejolt](https://gamejolt.com/) are great places and easy to post your games where other can find and play. 
 You don't even need to complete the game, just get something working and upload it and share it with friends.
 
-There is also steam but that has an upfront cost and and should probably be the last place you publish until you have something more complete that you are proud of.
-
+There is also steam but that has an upfront cost and should probably be the last place you publish. Wait until you have something more complete that you are proud of.
 
 
 ---
