@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a software developer with 4 years of experience writing software for warehousing systems and e-commerce connections using Asp.NET and C#.
+I also have years of experience working with Unity3d making video games.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[Resume](https://drive.google.com/file/d/1qcwwo9vz6zSlf9XxqlNIIRUKQMKtlxKs/view?usp=sharing)
