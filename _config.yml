@@ -24,6 +24,8 @@ google_analytics: UA-126272637-1
 github_username:  judah4
 linkedin_username: judah-perez
 
+show_excerpts: true
+
 # Build settings
 markdown: kramdown
 theme: minima
