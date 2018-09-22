@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Getting started With Game Development"
+title:  "Getting Started With Game Development"
 date:   2018-09-22 10:30:00 -0700
 categories: programming tutorials
 ---
