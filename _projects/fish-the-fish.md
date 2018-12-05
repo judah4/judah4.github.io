@@ -1,8 +1,8 @@
 ---
 layout: page
 title:  "Fish The Fish"
-image: "/assets/img/fish/fish.png"
-type: game
+image: "/assets/img/projects/fish.png"
+type: Game
 ---
 Type: {{page.type}}  
 
