@@ -1,9 +1,9 @@
 ---
 layout: page
-title:  "Unity Color Picker Project"
+title:  "Unity Color Picker"
 image: "/assets/img/projects/color-picker.png"
 type: Open Source Project
-draft: true
+draft: false
 ---
 Type: {{page.type}}  
 
