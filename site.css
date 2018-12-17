@@ -1,0 +1,9 @@
+.image-sized {
+    max-width: 500px;
+}
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
