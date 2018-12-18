@@ -71,9 +71,9 @@ I like the combat changes but it definitely feels like Assassin's Creed.
 
 
 ## Other Games I Played and Liked
-Final Fantasy XV, Monster Hunter: World, Slime Rancher, World's Adrift, Enter the Gungeon, Tooth and Tail, Project: Gorgon
+Final Fantasy XV, Monster Hunter: World, Slime Rancher, World's Adrift, Enter the Gungeon, Tooth and Tail, Project: Gorgon, Owlboy
 
 
 
 ## Other Games I Keep Meaning to Play
-Donut County, Pyre, All those PS4 exclusives
+Donut County, Pyre, All those PS4 exclusives, Celeste
