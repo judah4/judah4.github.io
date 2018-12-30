@@ -18,7 +18,6 @@ I listen to a lot of music and game soundtracks so my rankings will also include
 1. DELTARUNE
 1. Ni no Kuni II
 1. DOOM (2016)
-1. Assassin's Creed Odyssey
 1. Nintendo (Splatoon 2, BotW, Pokemon Let's go)
 
 ## Thoughts
@@ -28,9 +27,9 @@ I listen to a lot of music and game soundtracks so my rankings will also include
 
 ![shapes](/assets/img/posts/top2018/shapes.jpg){: .image-sized .center-image }  
 
-This one actually surprised me. I was looking forward to playing this one for a while ever since I found the website (http://www.justshapesandbeats.com/).
-Initially I wasn't big on the music since it's not normally my style but now I mix in songs from the soundtrack nearly daily. 
-Lots of fun chiptune to listen to.
+This one actually surprised me. I was looking forward to playing Just Shapes & Beats for a while ever since I found the website (http://www.justshapesandbeats.com/).
+Initially, I wasn't big on the music since it's not normally my style, but now I mix in songs from the soundtrack nearly daily. 
+Lots of fun chiptune to listen to. I wish the game was longer but it's actually a lot of music already and they added more recently.
 
 
 
@@ -44,17 +43,11 @@ DELTARUNE, the Undertale sequel/prequel/spin-off from Toby Fox. Speaking of musi
 
 ![so much music](/assets/img/posts/top2018/music-me.png){: .image-sized .center-image }   
 
-The story was fun, the characters are great. When I finished playing Undertale I really wanted more and now Deltarune scratches that itch. 
+The story was fun, the characters are great. When I finished playing Undertale I really wanted more and now Deltarune scratches that itch. Undertale is probably my number one favorite game so Deltarune even being half as good is amazing. 
+I'm not sure yet if it stands on it's own just yet but my playthough of it was very enjoyable.
+
+
 I really hope Toby Fox continues it.
-
-### DOOM (2016)
-* Soundtrack : Monthly listening.  
-
-![doom](/assets/img/posts/top2018/doom.jpg){: .image-sized .center-image }  
-
-Finally got around to playing this after 2 years. Looking forward to DOOM Eternal whenever that comes out. I also listen to this soundtrack every once in a while. 
-I really like music.
-
 
 
 ### Ni no Kuni II
@@ -64,36 +57,36 @@ I really like music.
 
 
 Almost forgot this came out this year! Wow, this has been a long year. I really love the art style and Studio Ghibli influence. 
-I'm really bad at finishing game so this one is also in the keep meaning to finish pile.
+I'm really bad at finishing game so this one is also in the keep meaning to finish pile. I played a bit of the first one and enjoy it and now that the second one is on PC I can fully play it (at least until I forget and it falls into the never ending backlog).
+The story is just a little cheesy but I like the whimsical of it.
 
 
+### DOOM (2016)
+* Soundtrack : Monthly listening.  
+
+![doom](/assets/img/posts/top2018/doom.jpg){: .image-sized .center-image }  
+
+Finally got around to playing this after 2 years. Looking forward to DOOM Eternal whenever that comes out. I also listen to this soundtrack every once in a while. 
+I really like music.
 
 ### Nintendo Games
 * Soundtrack: Good 
 
-I picked up a switch this year and enjoyed a ton of Nintendo. Played BotW finally and loved it. Played Splatoon 2 and it was excellent. Still in the middle of Pokemon Let's go Eevee. 
-I never actually played through Red and Blue so finally doing so in a spin off is pretty fun.
+I picked up a switch this year and enjoyed a ton of Nintendo. Played BotW finally and loved it. Played Splatoon 2 and it was excellent. 
 
-
-
-### Assassins Creed Odyssey
-* Soundtrack: Ambient, what soundtrack? 
-
-![odyssey](/assets/img/posts/top2018/odyssey.jpg){: .image-sized .center-image }  
-
-
-I haven't played an AC game since Black Flag and felt like playing again since I heard Origins was pretty good. 
-I like the combat changes but it definitely feels like Assassin's Creed.
+Still in the middle of Pokemon Let's go Eevee. 
+I never actually played through Red and Blue so finally doing so in a spin off is pretty fun. 
+Not sure which is worse though, beating up wild animals to level up or capturing them all and sending them off to the professor for science.
 
 
 
 ## Other Games I Played and Liked
 Final Fantasy XV, Monster Hunter: World, Slime Rancher, World's Adrift, Enter the Gungeon, Tooth and Tail, Project: Gorgon, Owlboy, 
-Getting Over it
+Getting Over it, Assassin's Creed
 
 
 ## Other Games I Keep Meaning to Play
-Donut County, Pyre, All those PS4 exclusives, Celeste, Battlefield One
+Donut County, Pyre, All those PS4 exclusives, Celeste, Battlefield One, Return of the Obra Dinn
 
 ## Other Games Started That I Keep Meaning to Finish
 Transistor, Prey
