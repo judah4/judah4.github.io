@@ -6,7 +6,8 @@ categories: lists
 
 {% include post-styling.md %}
 
-My top games this year. Not necessarily when they were released but when I played them. Looking at you DOOM. This list is not exactly 5 games anyways.
+My top games this year. Not necessarily when they were released but when I played them. This list is not exactly 5 games anyways.
+I don't think I played many of the super popular games this year, at least I'm not remembering them. What even came out this year?
 
 
 I listen to a lot of music and game soundtracks so my rankings will also include how often I listen to the soundtracks.
