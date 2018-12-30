@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1057bb15-cc56-43ec-ac60-60a698fdc3c3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_drafts/top-games-2018.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/top-games-2018.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/top-games-2018.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-30-top-games-2018.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,11 +50,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_drafts/top-games-2018.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-12-30-top-games-2018.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="153">
-                <caret line="9" column="130" selection-start-line="9" selection-start-column="130" selection-end-line="9" selection-end-column="130" />
+              <first_editor relative-caret-position="238">
+                <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
               </first_editor>
               <second_editor />
             </state>
@@ -77,8 +77,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-09-22-getting-started-with-gamedev.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1139">
-                <caret line="67" selection-start-line="67" selection-end-line="67" />
+              <first_editor relative-caret-position="51">
+                <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="33" />
               </first_editor>
               <second_editor />
             </state>
@@ -160,6 +160,7 @@
         <option value="$PROJECT_DIR$/_includes/post-styling.md" />
         <option value="$PROJECT_DIR$/site.css" />
         <option value="$PROJECT_DIR$/_drafts/top-games-2018.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-12-30-top-games-2018.md" />
       </list>
     </option>
   </component>
@@ -240,17 +241,18 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\Dragon\Documents\GitRepos\judah4.github.io\_posts" />
+      <recent name="O:\Judah\Documents\GitRepos\judah4.github.io\_projects" />
+      <recent name="O:\Judah\Documents\GitRepos\judah4.github.io\_projects\_drafts" />
+      <recent name="O:\Judah\Documents\GitRepos\judah4.github.io\assets\img" />
+      <recent name="O:\Judah\Documents\GitRepos\judah4.github.io\assets" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="O:\Judah\Documents\GitRepos\judah4.github.io\_includes" />
       <recent name="O:\Judah\Documents\GitRepos\judah4.github.io\assets\img\posts\top2018" />
       <recent name="O:\Judah\Documents\GitRepos\judah4.github.io\_projects" />
       <recent name="O:\Judah\Documents\GitRepos\judah4.github.io" />
-      <recent name="O:\Judah\Documents\GitRepos\judah4.github.io\assets" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="O:\Judah\Documents\GitRepos\judah4.github.io\_projects" />
-      <recent name="O:\Judah\Documents\GitRepos\judah4.github.io\_projects\_drafts" />
-      <recent name="O:\Judah\Documents\GitRepos\judah4.github.io\assets\img" />
       <recent name="O:\Judah\Documents\GitRepos\judah4.github.io\assets" />
     </key>
   </component>
@@ -288,18 +290,18 @@
       <workItem from="1544468012427" duration="2457000" />
       <workItem from="1545072950147" duration="7606000" />
       <workItem from="1545179131167" duration="2651000" />
-      <workItem from="1546199394397" duration="1732000" />
+      <workItem from="1546199394397" duration="1869000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38441000" />
+    <option name="totallyTimeSpent" value="38578000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49861112" visible="true" weight="0.2457356" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49861112" visible="true" weight="0.2457356" />
       <window_info id="Structure" order="1" sideWeight="0.5013889" side_tool="true" weight="0.24075924" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -312,7 +314,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.1603467" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.1603467" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -447,16 +449,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-09-22-getting-started-with-gamedev.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1139">
-            <caret line="67" selection-start-line="67" selection-end-line="67" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_drafts/building-a-community.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -491,11 +483,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_drafts/top-games-2018.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-22-getting-started-with-gamedev.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="153">
-            <caret line="9" column="130" selection-start-line="9" selection-start-column="130" selection-end-line="9" selection-end-column="130" />
+          <first_editor relative-caret-position="51">
+            <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-30-top-games-2018.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="238">
+            <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
           </first_editor>
           <second_editor />
         </state>
