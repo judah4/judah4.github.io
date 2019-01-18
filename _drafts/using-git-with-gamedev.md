@@ -60,7 +60,7 @@ My preferred git editor. It has a lot of features that I like and is usually fas
 The free version limits you to one account email and name versus the pro version gives you access to more profiles. 
 This is handy so you can commit with different emails between say your work email or your personal email. It has a yearly subscription for the pro features so keep that in mind if you plan on using it.
 
-![gitkrakengif](/assets/img/posts/gitgamedev/gk-merge-edit.gif){: .image-sized .center-image }  
+![gitkraken](/assets/img/posts/gitgamedev/gk-merge-edit.gif){: .image-sized .center-image }  
 
 This is my referral link if you want to sign up and try it [https://www.gitkraken.com/invite/3pkBJSRn](https://www.gitkraken.com/invite/3pkBJSRn)
 
@@ -68,20 +68,20 @@ This is my referral link if you want to sign up and try it [https://www.gitkrake
 
 I haven't used it in a while but Sourcetree handles git projects well and is free. My main issue with it is it slows down quite a bit on larger projects or at least it use to.
 
-![gitkrakengif](/assets/img/posts/gitgamedev/hero-mac-screenshot.png){: .image-sized .center-image }  
+![source tree](/assets/img/posts/gitgamedev/hero-mac-screenshot.png){: .image-sized .center-image }  
 
 #### [Sublime Merge](https://www.sublimemerge.com/)
 
 This one is new as of October 2018 and is very good. It's free to try and then a flat $99 for a perpetual license.
-The only downside for my usage is it does not have a tree view of file changes and instead shows all changes in a flat list. It could keep you from changing to many files at once but at this point I'm use to browsing changes by their folder structure.
+The only downside for my usage is it does not have a tree view of file changes and instead shows all changes in a flat list. It could keep you from changing to many files at once but at this point I'm accustomed to browsing changes by their folder structure.
 
-![gitkrakengif](/assets/img/posts/gitgamedev/sublimemerge2.gif){: .image-sized .center-image }  
+![sublime merge](/assets/img/posts/gitgamedev/sublimemerge2.gif){: .image-sized .center-image }  
 
 #### [Github Desktop](https://desktop.github.com/)
 
 Provided by [Github](https://github.com/), a simpler visual git editor.
 
-![gitkrakengif](/assets/img/posts/gitgamedev/github-desktop-screenshot-windows.png){: .image-sized .center-image }
+![github desktop](/assets/img/posts/gitgamedev/github-desktop-screenshot-windows.png){: .image-sized .center-image }
  
 ## Unity Project Setup
 
@@ -93,20 +93,20 @@ We are starting with these assumptions.
 
 To start, we are going to create an empty github project. On the top right of the page there should be a plus button where you can hit [new repository](https://github.com/new).
 
-![gitkrakengif](/assets/img/posts/gitgamedev/unity-steps/repo-new.PNG){: .image-sized .center-image }
+![new  repo setup](/assets/img/posts/gitgamedev/unity-steps/repo-new.PNG){: .image-sized .center-image }
 
 Once you have the project setup in github, clone in using your git tool. Here, in gitkrake, we have github connected so it can list your porjects and ask you where to download it to.
 
-![gitkrakengif](/assets/img/posts/gitgamedev/unity-steps/repo-clone.PNG){: .image-sized .center-image }
+![repo clone](/assets/img/posts/gitgamedev/unity-steps/repo-clone.PNG){: .image-sized .center-image }
 
 
-![gitkrakengif](/assets/img/posts/gitgamedev/unity-steps/repo-clone2.PNG){: .image-sized .center-image }
+![repo clone github](/assets/img/posts/gitgamedev/unity-steps/repo-clone2.PNG){: .image-sized .center-image }
 
 Once it's ready, it may ask you to initialize the repo if you did not setup a readme file on github. Go ahead and do it.
 
 Next up, we are going to create a unity project in the repo. Go ahead and select the folder to creat it in.
 
-![gitkrakengif](/assets/img/posts/gitgamedev/unity-steps/unity-new.PNG){: .image-sized .center-image }
+![new unity project](/assets/img/posts/gitgamedev/unity-steps/unity-new.PNG){: .image-sized .center-image }
 
 This will create the unity project one folder level in the git repo folder. In order to have it at the same level as the git repo, you will need to setup the unity project before connecting to the github remote.
 
@@ -116,21 +116,21 @@ Head over to [this page](https://github.com/github/gitignore/blob/master/Unity.g
 
 #### Before
 
-![gitkrakengif](/assets/img/posts/gitgamedev/unity-steps/repo-count.PNG){: .image-sized .center-image }
+![repo changes count](/assets/img/posts/gitgamedev/unity-steps/repo-count.PNG){: .image-sized .center-image }
 
 #### After
 
-![gitkrakengif](/assets/img/posts/gitgamedev/unity-steps/repo-count2.PNG){: .image-sized .center-image }
+![repo changes count after .gitignore](/assets/img/posts/gitgamedev/unity-steps/repo-count2.PNG){: .image-sized .center-image }
 
 Now that we have the files we want we need to commit our changes and push to the remote.
 
-![gitkrakengif](/assets/img/posts/gitgamedev/unity-steps/unity-commit.gif){: .image-sized .center-image }
+![unity commit gif](/assets/img/posts/gitgamedev/unity-steps/unity-commit.gif){: .image-sized .center-image }
 
-![gitkrakengif](/assets/img/posts/gitgamedev/unity-steps/unity-push.gif){: .image-sized .center-image }
+![unity push gif](/assets/img/posts/gitgamedev/unity-steps/unity-push.gif){: .image-sized .center-image }
 
 Now that you pushed your code, your repo  should look something like this.
 
-![gitkrakengif](/assets/img/posts/gitgamedev/unity-steps/repo-fin.PNG){: .image-sized .center-image }
+![unity repo push complete](/assets/img/posts/gitgamedev/unity-steps/repo-fin.PNG){: .image-sized .center-image }
 
 Now that you have source control remember to commit and push often!
 
