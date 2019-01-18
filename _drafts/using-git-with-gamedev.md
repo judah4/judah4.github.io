@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Using Git for Game Development"
+title:  "Using Git with Game Development"
 categories: programming tutorials
 ---
 
@@ -14,6 +14,31 @@ I will cover installing git on a windows environment, using online repositories 
 
 Pulled from the [site](https://git-scm.com) Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. 
 There are other version control systems like subversion but Git is the most popular and widespread.
+
+
+# Online Git Projects
+
+What's so great about source control and git is you can store your project files online in git repos.
+
+## [Github](https://github.com/)
+
+The most popular online git management website. There are a lot of open source projects hosted here and a good place to collaborate with others.
+
+* Free public repos.
+* Limited private repos.
+
+## [Gitlab](https://gitlab.com/)
+
+Gitlab has many of the same features of github.
+
+* Easy to manage private organizations and repos.
+* Lots of CI/CD tooling.
+
+## Others
+
+* [Bitbucket](https://bitbucket.org/product) Part of the Atlassian suite.
+* [Gitea](https://gitea.io/en-us/) Newer and can be self hosted.
+
 
 # Setup and Visual Git Editors
 
@@ -52,15 +77,57 @@ The only downside for my usage is it does not have a tree view of file changes a
 
 ![gitkrakengif](/assets/img/posts/gitgamedev/sublimemerge2.gif){: .image-sized .center-image }  
 
-# Online Git Projects
+### [Github Desktop](https://desktop.github.com/)
 
-# Github
+Provided from [Github](https://github.com/), a simpler visual git editor.
 
-## Gitlab
-
-## Others
-
-* Bitbucket
-* Gitea
-
+![gitkrakengif](/assets/img/posts/gitgamedev/github-desktop-screenshot-windows.png){: .image-sized .center-image }
+ 
 # Unity Project Setup
+
+We are starting with these assumptions.
+
+* You have a github account
+* You have a version of unity installed.
+* You have git installed. We will be using Gitkraken with [github connected](https://support.gitkraken.com/integrations/github/)
+
+To start, we are going to create an empty github project. On the top right of the page there should be a plus button where you can hit [new repository](https://github.com/new).
+
+![gitkrakengif](/assets/img/posts/gitgamedev/unity-steps/repo-new.PNG){: .image-sized .center-image }
+
+Once you have the project setup in github, clone in using your git tool. Here, in gitkrake, we have github connected so it can list your porjects and ask you where to download it to.
+
+![gitkrakengif](/assets/img/posts/gitgamedev/unity-steps/repo-clone.PNG){: .image-sized .center-image }
+
+
+![gitkrakengif](/assets/img/posts/gitgamedev/unity-steps/repo-clone2.PNG){: .image-sized .center-image }
+
+Once it's ready, it may ask you to initialize the repo if you did not setup a readme file on github. Go ahead and do it.
+
+Next up, we are going to create a unity project in the repo. Go ahead and select the folder to creat it in.
+
+![gitkrakengif](/assets/img/posts/gitgamedev/unity-steps/unity-new.PNG){: .image-sized .center-image }
+
+This will create the unity project one folder level in the git repo folder. In order to have it at the same level as the git repo, you will need to setup the unity project before connecting to the github remote.
+
+
+Now, before we commit these files, we need to add a git ignore. There are a lot of extra files unity uses that clog up our repo and makes downloading it slow.
+Head over to [this page](https://github.com/github/gitignore/blob/master/Unity.gitignore) and create a `.gitignore` file in the unity project folder.
+
+#### Before
+
+![gitkrakengif](/assets/img/posts/gitgamedev/unity-steps/repo-count.PNG){: .image-sized .center-image }
+
+#### After
+
+![gitkrakengif](/assets/img/posts/gitgamedev/unity-steps/repo-count2.PNG){: .image-sized .center-image }
+
+Now that we have the files we want we need to commit our changes and push to the remote.
+
+![gitkrakengif](/assets/img/posts/gitgamedev/unity-steps/unity-commit.gif){: .image-sized .center-image }
+
+![gitkrakengif](/assets/img/posts/gitgamedev/unity-steps/unity-push.gif){: .image-sized .center-image }
+
+Now that you pushed your code, your repo  should look something like this.
+
+![gitkrakengif](/assets/img/posts/gitgamedev/unity-steps/repo-fin.PNG){: .image-sized .center-image }
