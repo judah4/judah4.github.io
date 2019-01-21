@@ -30,7 +30,7 @@ The most popular online git management website. There are a lot of open source p
 
 ### [Gitlab](https://gitlab.com/)
 
-Gitlab has many of the same features of github.
+Gitlab has many of the same features of Github.
 
 * Easy to manage private organizations and repos.
 * Lots of CI/CD tooling.
@@ -105,20 +105,20 @@ To start, we are going to create an empty Github project. On the top right of th
 
 ![new  repo setup](/assets/img/posts/gitgamedev/unity-steps/repo-new.PNG){: .image-sized .center-image }
 
-Once you have the project setup in github, clone in using your git tool. Here, in GitKraken, we have Github connected so it can list your projects and ask you where to download it to.
+Once you have the project setup in Github, clone in using your git tool. Here, in GitKraken, we have Github connected so it can list your projects and ask you where to download it to.
 
 ![repo clone](/assets/img/posts/gitgamedev/unity-steps/repo-clone.PNG){: .image-sized .center-image }
 
 
 ![repo clone github](/assets/img/posts/gitgamedev/unity-steps/repo-clone2.PNG){: .image-sized .center-image }
 
-Once it's ready, it may ask you to initialize the repo. This happens if you did not setup a readme file on github. Go ahead and do it.
+Once it's ready, it may ask you to initialize the repo. This happens if you did not setup a readme file on Github. Go ahead and do it.
 
 Next up, we are going to create a unity project in the repo. Go ahead and select the folder to create it in.
 
 ![new unity project](/assets/img/posts/gitgamedev/unity-steps/unity-new.PNG){: .image-sized .center-image }
 
-This will create the unity project one folder level in the git repo folder. In order to have it at the same level as the git repo, you will need to setup the unity project before connecting to the github remote.
+This will create the unity project one folder level in the git repo folder. In order to have it at the same level as the git repo, you will need to setup the unity project before connecting to the Github remote.
 
 
 Now, before we commit these files, we need to add a `.gitignore`. There are a lot of extra files unity uses that clog up our repo and makes downloading it slow.
