@@ -33,12 +33,14 @@ This is usually the funnest part of a project, throwing it together and having i
 ## 2. Make it Right
 
 Getting it working usually means it's not well architected, unless you really know what you're doing.
-This is refactoring to make the code readable, applying better design patterns, fixing all those weird bugs, etc.
-Sometimes, the behaviors ar faked to get it working!
+Making it right usually means refactoring to make the code readable, applying better design patterns, fixing all those weird bugs, and more.
+Sometimes, the behaviors are faked to get it working!
 
-An example of what I need to make right is the new tree chopping and rock hitting mechanics I added to my game, TwoKinds Online.
-It fakes the server side checks and there's no limit on the number of resources available, so you can get unlimited wood from a tree. 
-Making it right means I need to finish the implementation, and make it so the trees have a set number of wood you can collect from them, controlled by the server side.
+This is an example of what I need to make right for my my game, TwoKinds Online. 
+I added new tree chopping and rock hitting mechanics so that players can collect wood and rocks.
+It fakes the server side checks, so there's no limit on the number of resources available, and you can hit the same tree forever. 
+Making it right means, I need to finish the implementation, and make it so the trees have a set number of wood you can collect, controlled by the server side.
+I will probably go into more depth how the system works in a later blog post.
 
 ## 3. Make it Fast
 
