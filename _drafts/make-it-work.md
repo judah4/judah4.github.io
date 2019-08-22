@@ -60,6 +60,7 @@ This is optimizing, the make it right and make it fast steps.
 There's a lot of design patterns and principles to help improve quality, but sometimes you have to get it working first. 
 What's nice is, some chunks of the code/game can be in different stages of the process, especially if the systems are independent from each other.
 
+## Conclusion
 
 My code usually starts as a mess and I have to iterate over it a few times. 
 I am very much for prototype first and using code as a scratch pad to try things.
