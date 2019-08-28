@@ -20,7 +20,7 @@ My favorite development saying and design principle.
 
 
 
-Apparently it's attributed to Kent Beck? I don't know were I heard if over the years, but it covers how I create my software and games. 
+Apparently it's attributed to Kent Beck? I don't know were I found it, but it covers how I create my software and games. 
 I'm writing this in reference to my video game work, so it's going to reference fun and play. 
 
 
