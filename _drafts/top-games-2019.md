@@ -9,8 +9,10 @@ Wow, this year had a lot of good games come out.
 ## Other Games I Played and Liked
 Dicey Dungeons
 
+Manifold Garden
+
 Donut County, Return of the Obra Dinn, Baba is You, Transistor, Hades,
- Angels with Scaly Wings, Titanfall 2, Yoku's Adventure, Pokemon Sword, Cadence of Hyrule
+ Angels with Scaly Wings, Titanfall 2, Yoku's Adventure, Pokemon Sword, Cadence of Hyrule, Subnatica
 
 
 ## Other Games I Keep Meaning to Play
