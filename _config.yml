@@ -36,9 +36,11 @@ plugins:
 
 collections:
   projects:
-    sort_by: order
+    #sort_by: order
     output: true
     permalink: /:collection/:title
+    order:
+      - twokinds-online.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

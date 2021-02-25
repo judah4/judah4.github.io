@@ -3,7 +3,6 @@ layout: page
 title:  "TwoKinds Online"
 image: "/assets/img/projects/twokinds/TwoKindsTavern.png"
 type: Game
-order: -100
 ---
 Type: {{page.type}}  
 
