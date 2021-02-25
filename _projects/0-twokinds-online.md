@@ -8,7 +8,7 @@ Type: {{page.type}}
 
 ![Screenshot]({{page.image}})
 
-Play on Itch: [https://patrickgh3.itch.io/the-haunted-song](https://patrickgh3.itch.io/the-haunted-song)
+Check the game out! [https://www.twokinds.online/](https://www.twokinds.online/)
 
 What is it about a home that makes it feel so warm and cozy - Is it the fireplace cracking in the dim light, the placement of your favorite mug in a cabinet, or the people living within its corridors?
 Moving into a new home can be exciting, but for little Song Li it was scary…
