@@ -3,6 +3,7 @@ layout: page
 title:  "Fish The Fish"
 image: "/assets/img/projects/fish.png"
 type: Game
+order: 0
 ---
 Type: {{page.type}}  
 

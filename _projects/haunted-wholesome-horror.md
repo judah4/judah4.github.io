@@ -3,6 +3,7 @@ layout: page
 title:  "The Haunted Song"
 image: "/assets/img/projects/horror/hauntedheader.png"
 type: Game
+order: 0
 ---
 Type: {{page.type}}  
 
