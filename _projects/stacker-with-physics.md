@@ -3,6 +3,7 @@ layout: page
 title:  "Stacker With Physics"
 image: "/assets/img/projects/stacker.png"
 type: Game
+order: 0
 ---
 Type: {{page.type}}  
 

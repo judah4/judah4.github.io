@@ -10,8 +10,6 @@ permalink: /projects/
 {% for project in site.projects%}
 {% if project.draft == false %}
 
-  
-
   <div style="display: flex; flex-wrap: wrap; flex-direction:column; padding:20px;" >
       <a href="{{ project.url }}">
         <div style="">
