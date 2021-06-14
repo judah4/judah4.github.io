@@ -3,12 +3,18 @@ layout: post
 title:  "How to Answer Questions During a Meeting"
 categories: work
 ---
-How do do you answer questions during meeting? Here' my process for questions I have domain knowledge on to questions I have no idea how to answer.
+How do do you answer questions during meeting? Here's my process for questions I have domain knowledge on to questions I have no idea how to answer.
 
-There are 3 kinds of questions:
+## There are 3 kinds of questions:
 
-1. You know 100%, your domain knowledge, give that expert response
-1. Something you know that is plausible but not 100% sure. Answer the parts you do know, theorize other parts you can with disclaimers, and tell them you need to follow up once you can check for sure
-1. No idea, who's the expert to ask about this
+### You know 100%, your domain knowledge, give that expert response.
 
-Little bit of research and notes before meetings (I'm not a good note taker, still working on that)
+Sometimes you are the expert! Make sure to answer confidently.
+
+### Something you know that is plausible but not 100% sure. Answer the parts you do know, theorize other parts you can with disclaimers, and tell them you need to follow up once you can check for sure.
+
+
+### No idea, who's the expert to ask about this.
+
+
+When possible, a little bit of research and notes before meetings goes a long way. I'm personally not a good note taker but even my meager notes help me remember what needs to be brought up during meetings.
