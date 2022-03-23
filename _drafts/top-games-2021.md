@@ -18,23 +18,34 @@ GAMES!
 
 # Thoughts
 
-##  Final Fantasy XIV
+## Death's Door
+
+Death's Door blew me away. The characters are charming and the gameplay has good depth. I wouldn't exactly call it a Zeldalike but it was definitely in the style of Link to the Past or Link's Awakening. I recomend it to anyone looking for a good Hack n Slash.
+
+## DELTARUNE Chapter 2
+
+Honestly surprised this dropped last year. It was amazing. The soundtrack was real good too.
+
+##  Final Fantasy XIV : Endwalker
+
+This shouldn't be a surprise. My wife and I finished Shadowbringers last year and were super hyped for Endwalker and it delivered. The 
 
 ![Final Fantasy 14, Kite the Catboy](/assets/img/posts/top2020/ff14catboy.png){: .image-sized .center-image } 
 
 
 ## MTG Arena
 
+I play this more than I should. Favorite color is Blue.
+
 ![Mtg Arena](/assets/img/posts/top2020/mtgarena.PNG){: .image-sized .center-image } 
 
 
-
 # Other Games I Played and Liked
-Spelunky 2, Spellbreak, Changed, Sparkles & Gems, Scavengers, Loop Hero, 5D Chess, Samurai Gunn 2, Albion Online, Boyfriend Dungeon, Fuga: Melodies of Steel, VRChat, New World,
+Spelunky 2, Spellbreak, Changed, Sparkles & Gems, Scavengers, Loop Hero, 5D Chess, Samurai Gunn 2, Albion Online, Boyfriend Dungeon, Fuga: Melodies of Steel, VRChat, New World
 
 # Other Games I Keep Meaning to Play
  Red Dead Redemption 2, Slay the Spire, Disco Elysium, Octopath Traveler, 
- Divinity Original Sin 2, Pine, Kingdom Hearts, No Man's Sky, Ni no Kuni.
+ Divinity Original Sin 2, Pine, Kingdom Hearts, No Man's Sky, Ni no Kuni, Inscryption.
 
 # Other Games Started That I Keep Meaning to Finish
 Pyre, Doom, Dragon Quest XI, Angels with Scaly Wings, Ni no Kuni II.
