@@ -3,7 +3,7 @@ layout: page
 title: Shop
 permalink: /shop/
 ---
-I have a very basic shop here. You can also check out my [game merch](https://www.cookiedragon.games/shop)! 
+I have a very basic shop here. You can also check out my [game merch](https://shop.cookiedragon.games)! 
 <br/>
 
 
