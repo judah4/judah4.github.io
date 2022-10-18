@@ -12,9 +12,7 @@ Type: {{page.type}}
 
 My contribution to unity developers who need a color picker to use in their games in unity.
 
-[Github page](https://github.com/judah4/HSV-Color-Picker-Unity) 
-[![star this repo](http://githubbadges.com/star.svg?user=judah4&repo=HSV-Color-Picker-Unity&style=default)](https://github.com/judah4/HSV-Color-Picker-Unity)
-[![fork this repo](http://githubbadges.com/fork.svg?user=judah4&repo=HSV-Color-Picker-Unity&style=default)](https://github.com/judah4/HSV-Color-Picker-Unity/fork)
+[GitHub Page](https://github.com/judah4/HSV-Color-Picker-Unity) 
 
 #### Example of hooking up the event listener
 ```CSharp
