@@ -25,6 +25,23 @@ google_analytics: UA-126272637-1
 github_username:  judah4
 linkedin_username: judah-perez
 twitter_username:  dragonjudah
+rss: rss
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+
+# Mastodon instances
+mastodon:
+  - username: cookie
+    instance: dragon.style
+    display: Cookie Dragon
+# - username: jekyll2
+#   instance: example.com
+
 
 show_excerpts: true
 
