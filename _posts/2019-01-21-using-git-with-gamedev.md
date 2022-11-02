@@ -4,7 +4,6 @@ title:  "Using Git with Game Development"
 date:   2019-01-21 9:00:00 -0800
 categories: programming tutorials
 ---
-
 Source control can be daunting but it is pretty important for sharing with others and backing up to prevent data loss. 
 I will cover installing git on a windows environment, using online repositories (repos) and getting a Unity game setup with git.
 

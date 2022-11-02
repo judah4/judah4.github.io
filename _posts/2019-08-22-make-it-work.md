@@ -4,7 +4,6 @@ title:  "Make it Work, Make it Right, Make it Fast"
 date:   2019-08-22 15:35:00 -0700
 categories: programming
 ---
-
 My favorite development saying and design principle.
 
 {% include post-styling.md %}
