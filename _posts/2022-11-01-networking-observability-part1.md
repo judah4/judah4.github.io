@@ -5,7 +5,6 @@ date:   2022-11-01 02:00:00 -0800
 categories: programming
 ---
 {% include post-styling.md %}
-
 I’ve been working on [Dragon Game Framework (DragonGF)](https://github.com/judah4/MMO-Dragon-Game-Framwork), an MMO networking library for a while now. With it being an MMO framework, data observability needs to good. Time to build a Unity editor window!
 
 ## Collecting Data

@@ -4,7 +4,6 @@ title:  "Music Decades"
 date:   2022-06-22 10:00:00 -0800
 categories: lists
 ---
-
 Not sure if there are actual decade names for music but I’m making up my own! I personally like to name and classify things so this is an inane exercise to make me feel old.
 
 # The Names
