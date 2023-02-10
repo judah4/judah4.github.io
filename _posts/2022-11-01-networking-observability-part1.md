@@ -5,7 +5,7 @@ date:   2022-11-01 02:00:00 -0800
 categories: programming
 ---
 {% include post-styling.md %}
-I’ve been working on [Dragon Game Framework (DragonGF)](https://github.com/judah4/MMO-Dragon-Game-Framwork), an MMO networking library for a while now. With it being an MMO framework, data observability needs to good. Time to build a Unity editor window!
+I’ve been working on [Dragon Game Framework (DragonGF)](https://github.com/judah4/MMO-Dragon-Game-Framwork), an MMO networking library for a while now. With it being an MMO framework, data observability needs to be good. Time to build a Unity editor window!
 
 ## Collecting Data
 First I need to collect the data. [Lidgren](https://github.com/lidgren/lidgren-network-gen3), the networking library I use for DragonGF, has basic statistics collection, but does not have it time-sliced for trends and graphs. To go over the basic concepts of how DragonGF works, anything with networked data or that can move is known as an entity and entities have data made of components. Components are updated by the server periodically, and clients can send command requests which are much like RPCs. Events are usually one-shots sent from the server to the clients to denote actions like jumping, shooting, and deaths. Ultimately, data usage can be categorized by Entity Creation, Commands, Updates, and Events.
