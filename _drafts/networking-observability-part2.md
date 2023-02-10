@@ -20,4 +20,4 @@ Originally, I prototyped it as just MMO Game Framework in response to the issue 
 
 ## What's Next?
 
-A game demo! I'm working on a simple pirate ship game that will show the basics of what the project can do. I'll also take suggestions on what else to build with it. Now that I'm thinking about it, I should make a simple fantasy RPG with it.
+A tech demo! I'm working on a simple pirate ship game that will show the basics of what the project can do. I'll also take suggestions on what else to build with it. Now that I'm thinking about it, I should make a simple fantasy RPG with it.
