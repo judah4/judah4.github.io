@@ -6,7 +6,7 @@ categories: lists
 ---
 Not sure if there are actual decade names for music but I’m making up my own! I personally like to name and classify things so this is an inane exercise to make me feel old.
 
-# The Names
+## The Names
 * The Before Times  
 * Classic 70s  
 * Old Skool 80s  
