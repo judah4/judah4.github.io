@@ -10,6 +10,7 @@ My favorite development saying and design principle.
 
 ![make it work](/assets/img/posts/makeit/whiteboardwords.jpg){: .image-sized .center-image } 
 
+<!--more-->
 
 1. Make it work.
 1. Make it right.

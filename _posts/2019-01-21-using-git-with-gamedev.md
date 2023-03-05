@@ -8,7 +8,7 @@ Source control can be daunting but it is pretty important for sharing with other
 I will cover installing git on a windows environment, using online repositories (repos) and getting a Unity game setup with git.
 
 {% include post-styling.md %}
-
+<!--more-->
 
 ## Git and What it Does
 

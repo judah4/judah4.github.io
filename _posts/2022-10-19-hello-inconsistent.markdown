@@ -6,6 +6,8 @@ categories: intro update
 ---
 Hello! I'm Judah and I'm rebranding my personal blog to [www.inconsistent.software](https://www.inconsistent.software) from [www.judahperez.com](https://www.judahperez.com).
 
+<!--more-->
+
 I've owned this domain for a long time and have always wanted to get into more technical writing, but my writing and open source contributions have always been haphazard and inconsistent, so I figured it's time to use the url. I'm currently writing about my networking experience with [DragonGF](https://github.com/judah4/MMO-Dragon-Game-Framwork) and hope to write more. We will see. I should also write about how I feel about Hacktoberfest.
 
 Anyways,  

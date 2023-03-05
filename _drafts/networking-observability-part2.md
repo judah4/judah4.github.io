@@ -7,6 +7,8 @@ categories: programming
 
 This is part 2 for [Networking for Dragon Game Framework : Observability]( {%post_url 2022-11-01-networking-observability-part1 %} ). These are my ramblings as I work through problems with [Dragon Game Framework (DragonGF)](https://github.com/judah4/MMO-Dragon-Game-Framework), an MMO networking library.
 
+<!--more-->
+
 ## Fixed Point Decimals and Data Packing
 
 We now have a position as 3 fixed point decimals (32 bit numbers) to represent a large but smaller than previous game space which we send updates for at 10 Hz (10 updates every second).

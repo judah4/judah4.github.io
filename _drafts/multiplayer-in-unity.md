@@ -5,6 +5,8 @@ categories: work
 ---
 Multiplayer frameworks
 
+<!--more-->
+
 # Built-in
 As of right now there is no official networking system for unity built in that is not deprecated or out of preview. If you where looking for something like UNet, check out Mirror.
 

@@ -5,6 +5,8 @@ categories: work
 ---
 How do do you answer questions during meeting? Here's my process for questions I have domain knowledge on to questions I have no idea how to answer.
 
+<!--more-->
+
 ## There are 3 kinds of questions:
 
 ### You know 100%, your domain knowledge, give that expert response.
