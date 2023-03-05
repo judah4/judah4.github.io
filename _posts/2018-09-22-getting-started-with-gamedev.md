@@ -8,6 +8,8 @@ categories: programming tutorials
 Hello! I've been doing game development for while now and people have asked how to start. 
 There are many ways to get into game development so here is my advice to learn to program video games.
 
+<!--more-->
+
 First off, if you are brand new to programming, I highly suggest [Chris DeLeon's](https://twitter.com/ChrisDeLeon) free Udemy course found at [code-your-first-game.com](http://code-your-first-game.com).
 It is well structured and will walk you though making a breakout game with javascript that can be played in your browser right away.
 
