@@ -14,3 +14,8 @@ My previous indie game development can be found at [Cookie Dragon Games](https:/
 
 
 Email or contact me on social media if you like what I write about!
+
+# More
+
+[Projects](/projects)  
+[Top Games of All Time]({%link stuff/topgames.md %})  
