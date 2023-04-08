@@ -2,7 +2,7 @@
 layout: post
 title:  "Top Games of All Time (2023 Edition)"
 categories: lists
-date:   2023-04-08 14:20:00 -0800
+date:   2023-04-08 14:20:00 -0700
 ---
 
 I don't think I ever cataloged my favorite games so here we go!
@@ -45,7 +45,7 @@ The countinously updated page for the list can be found [here at {%link stuff/to
 
 These are my top games for both video games and board games. A lot of these are formative and foundation for the genres I like and who I am. 
 I have a few more games that didn't make the cut [at {%link stuff/topgames.md %}]({%link stuff/topgames.md %}).
-I know I forgot some games so I'll be updating the page every once in a while.
+I know I forgot some games so I'll be updating that page every once in a while.
 
 Here are some games I want to highlight and write about.
 
