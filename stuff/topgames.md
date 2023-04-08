@@ -11,12 +11,12 @@ These are my top 25 games as of April 2023. This includes both video games and b
 1. Undertale
 1. Final Fantasy XIV
 1. Elden Ring / Dark Souls
-1. Legend of Zelda: Breath of the Wild
-1. Satisfactory
-1. TUNIC
-1. Dark Cloud 2
-1. Magic: The Gathering
 1. Mabinogi
+1. Dark Cloud 2
+1. Legend of Zelda: Breath of the Wild
+1. TUNIC
+1. Satisfactory
+1. Magic: The Gathering
 1. Pokemon (Gold and Silver)
 1. Catan Board Game
 1. Dominion Board Game
@@ -27,12 +27,12 @@ These are my top 25 games as of April 2023. This includes both video games and b
 1. Mass Effect (Trilogy)
 1. Solatorobo: Red the Hunter
 1. Civilization (III-VI)
-1. Destiny 2
+1. FTL
 1. Red Dead Redemption
-1. Grand Theft Auto V
-1. Pyre
-1. Bastion
+1. Grand Theft Auto V (And San Andreas)
+1. Summon Knight: Swordcraft Story
 1. Dust: An Elysian Tail
+1. Bastion
 
 # Honorable Mentions so I Don't Forget About Them
 
@@ -42,11 +42,13 @@ These are my top 25 games as of April 2023. This includes both video games and b
 * The rest of the Supergiant games
 * Phase 10 Card Game
 * Gary's Mod
-* Summon Knight: Swordcraft Story
+* Pyre
 * Kirby Air Ride
 * Portal (1 & 2)
 * Minecraft
-* Harvest Moon; Friends of Mineral Town
+* Harvest Moon: Friends of Mineral Town
 * Stardew Valley
+* Destiny 2
+* Rachet and Clank
 
 
