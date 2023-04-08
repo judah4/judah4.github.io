@@ -3,6 +3,8 @@ layout: post
 title:  "How to Answer Questions During a Meeting"
 categories: work
 ---
+{% include post-styling.md %}
+
 How do do you answer questions during meeting? Here's my process for questions I have domain knowledge on to questions I have no idea how to answer.
 
 <!--more-->

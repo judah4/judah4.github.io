@@ -3,6 +3,8 @@ layout: post
 title:  "Multiplayer Using Unity"
 categories: work
 ---
+{% include post-styling.md %}
+
 Multiplayer frameworks
 
 <!--more-->

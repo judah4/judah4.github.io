@@ -4,6 +4,7 @@ title:  "Top Games of All Time (2023 Edition)"
 categories: lists
 date:   2023-04-08 14:20:00 -0700
 ---
+{% include post-styling.md %}
 
 I don't think I ever cataloged my favorite games so here we go!
 These are my top 25 games of all time as of April 2023.

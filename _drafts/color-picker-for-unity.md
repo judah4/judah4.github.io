@@ -3,6 +3,7 @@ layout: post
 title:  "Color Picker for Unity"
 categories: programming
 ---
+{% include post-styling.md %}
 
 Back in 2014, when the [Unity UI](https://blog.unity.com/technology/overview-of-the-new-ui-system) was new, I had an idea to make a color picker to use in game using the new UI system. Thus, [HSV Color Picker](https://github.com/judah4/HSV-Color-Picker-Unity) was created. Now, nearly 9 years later (yikes!), the library has reached 500+ stars on GitHub! 
 It's wild to me that potentially that many people are using code I wrote in their games.
