@@ -6,3 +6,6 @@ categories: community
 {% include post-styling.md %}
 
 Good luck with this one.
+
+<!--more-->
+
