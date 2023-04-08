@@ -29,8 +29,8 @@ These are my top 25 games as of April 2023. This includes both video games and b
 1. Civilization (III-VI)
 1. FTL
 1. Red Dead Redemption
-1. Grand Theft Auto V (And San Andreas)
-1. Summon Knight: Swordcraft Story
+1. Grand Theft Auto V (and San Andreas)
+1. Summon Night: Swordcraft Story
 1. Dust: An Elysian Tail
 1. Bastion
 

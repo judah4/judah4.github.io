@@ -2,6 +2,7 @@
 layout: post
 title:  "Top Games of All Time (2023 Edition)"
 categories: lists
+date:   2023-04-08 14:20:00 -0800
 ---
 
 I don't think I ever cataloged my favorite games so here we go!
@@ -33,8 +34,8 @@ These are my top 25 games of all time as of April 2023.
 1. Civilization (III-VI)
 1. FTL
 1. Red Dead Redemption
-1. Grand Theft Auto V (And San Andreas)
-1. Summon Knight: Swordcraft Story
+1. Grand Theft Auto V (and San Andreas)
+1. Summon Night: Swordcraft Story
 1. Dust: An Elysian Tail
 1. Bastion
 
