@@ -5,7 +5,7 @@ categories: programming
 ---
 {% include post-styling.md %}
 
-This is part 2 for [Networking for Dragon Game Framework : Observability]( {%post_url 2022-11-01-networking-observability-part1 %} ). These are my ramblings as I work through problems with [Dragon Game Framework (DragonGF)](https://github.com/judah4/MMO-Dragon-Game-Framework), an MMO networking library.
+This is part 2 for [Networking for Dragon Game Framework : Observability]( {{site.url}}{%post_url 2022-11-01-networking-observability-part1 %} ). These are my ramblings as I work through problems with [Dragon Game Framework (DragonGF)](https://github.com/judah4/MMO-Dragon-Game-Framework), an MMO networking library.
 
 <!--more-->
 

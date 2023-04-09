@@ -40,12 +40,12 @@ These are my top 25 games of all time as of April 2023.
 1. Dust: An Elysian Tail
 1. Bastion
 
-The countinously updated page for the list can be found [here at {%link stuff/topgames.md %}]({%link stuff/topgames.md %})
+The countinously updated page for the list can be found [here at {%link stuff/topgames.md %}]({{site.url}}{%link stuff/topgames.md %})
 
 ## Thoughts
 
 These are my top games for both video games and board games. A lot of these are formative and foundation for the genres I like and who I am. 
-I have a few more games that didn't make the cut [at {%link stuff/topgames.md %}]({%link stuff/topgames.md %}).
+I have a few more games that didn't make the cut [at {%link stuff/topgames.md %}]({{site.url}}{%link stuff/topgames.md %}).
 I know I forgot some games so I'll be updating that page every once in a while.
 
 Here are some games I want to highlight and write about.
@@ -56,7 +56,7 @@ Undertale is my number one game. I played it at the right time for it resonant a
 ### Final Fantasy XIV
 Final Fantasy XIV is my most played game. Shadowbringers has an amazing story and I play it a lot with friends and family. It is my favorite current MMO.
 
-![Final Fantasy 14, Kite the Catboy](/assets/img/posts/top2020/ff14catboy.png){: .image-sized .center-image } 
+![Final Fantasy 14, Kite the Catboy]({{site.url}}/assets/img/posts/top2020/ff14catboy.png){: .image-sized .center-image } 
 
 ### Elden Ring / Dark Souls
 
