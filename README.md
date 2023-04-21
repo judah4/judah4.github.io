@@ -1,6 +1,6 @@
 judah4.github.io
 
-My Personal Site
+My old Personal Site, saved here for archiving.
 
 # Setup
 
